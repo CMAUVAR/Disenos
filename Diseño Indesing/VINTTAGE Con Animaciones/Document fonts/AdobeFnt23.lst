@@ -1,0 +1,51 @@
+%!Adobe-FontList 1.23
+%Locale:0x80a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BritannicBold
+FamilyName:Britannic Bold
+StyleName:Regular
+FullName:Britannic Bold
+MenuName:Britannic Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\VINTTAGE\Document fonts\BRITANIC.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40728
+FileModTime:1588982548
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Britannic Bold
+NameArray:0,Win,1,Britannic Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionVariableConcept-Roman
+FamilyName:Minion Variable Concept
+StyleName:Roman
+FullName:Minion Variable Concept Roman
+MenuName:Minion Variable Concept
+FamilyPrefix:MinionConceptRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\VINTTAGE\Document fonts\MinionVariableConcept-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:CFF2VariableFont
+FileLength:298864
+FileModTime:1660320406
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Minion Variable Concept
+%EndFont
+

@@ -1,0 +1,74 @@
+%!Adobe-FontList 1.23
+%Locale:0x80a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Playbill
+FamilyName:Playbill
+StyleName:Regular
+FullName:Playbill
+MenuName:Playbill
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\DPets\Document fonts\PLAYBILL.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46164
+FileModTime:1677130123
+WeightClass:400
+WidthClass:1
+AngleClass:0
+NameArray:0,Mac,4,Playbill
+NameArray:0,Win,1,Playbill
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Sho-CardCapsNF
+FamilyName:ShoCard Caps NF
+StyleName:Regular
+FullName:Sho-CardCapsNF
+MenuName:ShoCard Caps NF
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\DPets\Document fonts\Sho-CardCapsNF.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32936
+FileModTime:1677529684
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Sho-CardCapsNF
+NameArray:0,Win,1,ShoCard Caps NF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MVBoli
+FamilyName:MV Boli
+StyleName:Regular
+FullName:MV Boli
+MenuName:MV Boli
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\DPets\Document fonts\mvboli.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:78272
+FileModTime:1575709707
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,MV Boli
+NameArray:0,Win,1,MV Boli
+%EndFont
+

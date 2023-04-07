@@ -1,0 +1,95 @@
+%!Adobe-FontList 1.23
+%Locale:0x80a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BookmanOldStyle
+FamilyName:Bookman Old Style
+StyleName:Regular
+FullName:Bookman Old Style
+MenuName:Bookman Old Style
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\AlliFragance\Document fonts\BOOKOS.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:160940
+FileModTime:1677130108
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bookman Old Style
+NameArray:0,Win,1,Bookman Old Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BookmanOldStyle-Bold
+FamilyName:Bookman Old Style
+StyleName:Bold
+FullName:Bookman Old Style Bold
+MenuName:Bookman Old Style
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\AlliFragance\Document fonts\BOOKOSB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:154576
+FileModTime:1677130108
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Bookman Old Style Bold
+NameArray:0,Win,1,Bookman Old Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ForteMT
+FamilyName:Forte
+StyleName:Regular
+FullName:Forte
+MenuName:Forte
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\AlliFragance\Document fonts\FORTE.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61776
+FileModTime:1677130109
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Forte
+NameArray:0,Win,1,Forte
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Italianno-Regular
+FamilyName:Italianno
+StyleName:Regular
+FullName:Italianno
+MenuName:Italianno
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\AlliFragance\Document fonts\Italianno-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:137364
+FileModTime:1677212537
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Italianno
+NameArray:0,Win,1,Italianno
+%EndFont
+
