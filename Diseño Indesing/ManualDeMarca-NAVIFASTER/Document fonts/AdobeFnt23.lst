@@ -1,0 +1,53 @@
+%!Adobe-FontList 1.23
+%Locale:0x80a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MouseMemoirs-Regular
+FamilyName:Mouse Memoirs
+StyleName:Regular
+FullName:Mouse Memoirs
+MenuName:Mouse Memoirs
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\ManualDeMarca-NAVIFASTER\Document fonts\MouseMemoirs-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55932
+FileModTime:1354208556
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Mouse Memoirs
+NameArray:0,Mac,4,Mouse Memoirs
+NameArray:0,Win,1,Mouse Memoirs
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CoolveticaRg-Regular
+FamilyName:Coolvetica
+StyleName:Regular
+FullName:CoolveticaRg-Regular
+MenuName:Coolvetica Rg
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\ManualDeMarca-NAVIFASTER\Document fonts\coolvetica rg.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70876
+FileModTime:1678818234
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,CoolveticaRg-Regular
+NameArray:0,Win,1,Coolvetica Rg
+NameArray:0,Win,16,Coolvetica
+%EndFont
+
