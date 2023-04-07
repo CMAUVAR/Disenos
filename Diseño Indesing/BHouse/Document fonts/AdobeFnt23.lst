@@ -1,0 +1,49 @@
+%!Adobe-FontList 1.23
+%Locale:0x80a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Rockwell-ExtraBold
+FamilyName:Rockwell Extra Bold
+StyleName:Regular
+FullName:Rockwell Extra Bold
+MenuName:Rockwell Extra Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\BHouse\Document fonts\ROCKEB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49168
+FileModTime:1677130123
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Rockwell Extra Bold
+NameArray:0,Win,1,Rockwell Extra Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MongolianBaiti
+FamilyName:Mongolian Baiti
+StyleName:Regular
+FullName:Mongolian Baiti
+MenuName:Mongolian Baiti
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Diseños Illustrator\Diseño Indesing\BHouse\Document fonts\monbaiti.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:289052
+FileModTime:1575709707
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Mongolian Baiti
+NameArray:0,Win,1,Mongolian Baiti
+%EndFont
+

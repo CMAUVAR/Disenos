@@ -1,0 +1,95 @@
+%!Adobe-FontList 1.23
+%Locale:0x80a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BodoniMT-BoldItalic
+FamilyName:Bodoni MT
+StyleName:Bold Italic
+FullName:Bodoni MT Bold Italic
+MenuName:Bodoni MT
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\MVargas_BOLETIN\Document fonts\BOD_BI.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:85308
+FileModTime:1660532640
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Bodoni MT Bold Italic
+NameArray:0,Win,1,Bodoni MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BodoniMT-Italic
+FamilyName:Bodoni MT
+StyleName:Italic
+FullName:Bodoni MT Italic
+MenuName:Bodoni MT
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\MVargas_BOLETIN\Document fonts\BOD_I.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89940
+FileModTime:1660532640
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Bodoni MT Italic
+NameArray:0,Win,1,Bodoni MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Garamond-Italic
+FamilyName:Garamond
+StyleName:Italic
+FullName:Garamond Italic
+MenuName:Garamond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\MVargas_BOLETIN\Document fonts\GARAIT.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:189464
+FileModTime:1660532640
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Garamond Italic
+NameArray:0,Win,1,Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ravie
+FamilyName:Ravie
+StyleName:Regular
+FullName:Ravie
+MenuName:Ravie
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\MVargas_BOLETIN\Document fonts\RAVIE.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74416
+FileModTime:1660532640
+WeightClass:400
+WidthClass:6
+AngleClass:0
+NameArray:0,Mac,4,Ravie
+NameArray:0,Win,1,Ravie
+%EndFont
+
